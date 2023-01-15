@@ -93,12 +93,12 @@ body {
     flex: 0 0 auto;
     flex-flow: column nowrap;
     gap: 10px;
-    height: 150px;
+    height: 50px;
     overflow: hidden;
     padding: 20px;
     position: relative;
-    width: 610px;
-    max-width: 1200px;
+    width: 550px;
+    max-width: 750px;
     will-change: transform;
     overflow: auto;
     outline: none;
