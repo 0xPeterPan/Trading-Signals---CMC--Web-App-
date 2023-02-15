@@ -52,7 +52,7 @@ const Home = () => {
 			    placeholder="Enter in form of BTC or ETH, prices are provided by CoinMarketCap"
 			    value={userInput}
 			    onChange={onUserChangedText}
-          />;
+          />
           <div className="prompt-buttons">
             <a className={isGenerating ? 'generate-button loading' : 'generate-button'}
             onClick={callGenerateEndpoint}>
